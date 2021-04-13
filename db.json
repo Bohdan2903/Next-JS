@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "TITLE1",
+      "text": "Lorem dsffff  fffs fdsas ad 111"
+    },
+    {
+      "id": 2,
+      "title": "TITLE222",
+      "text": "Lorem dsffff  fffs fdsas ad 222"
+    },
+    {
+      "id": 3,
+      "title": "TITLE333",
+      "text": "Lorem dsffff  fffs fdsas ad 3333 "
+    }
+  ]
+}
